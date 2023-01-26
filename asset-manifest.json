@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-maker/static/css/main.3cad7bc5.css",
+    "main.js": "/Todo-maker/static/js/main.11edc222.js",
+    "static/js/787.63e47474.chunk.js": "/Todo-maker/static/js/787.63e47474.chunk.js",
+    "index.html": "/Todo-maker/index.html",
+    "main.3cad7bc5.css.map": "/Todo-maker/static/css/main.3cad7bc5.css.map",
+    "main.11edc222.js.map": "/Todo-maker/static/js/main.11edc222.js.map",
+    "787.63e47474.chunk.js.map": "/Todo-maker/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cad7bc5.css",
+    "static/js/main.11edc222.js"
+  ]
+}
